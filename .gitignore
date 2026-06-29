@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.csproj.user
+
+# Entity Framework
+Migrations/
+
+# Database
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+appsettings.local.json
